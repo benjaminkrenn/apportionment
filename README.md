@@ -15,7 +15,8 @@ The following apportionment methods are implemented:
    - Adams
 * the quota method [1]
 
-This module supports Python >= 2.7 and uses [gmpy2](https://gmpy2.readthedocs.io/) if available.
+This module supports Python >= 2.7 and 3.6+.
+The package future is required (see [requirements.txt](requirements.txt)).
 
 ## How-to
 
